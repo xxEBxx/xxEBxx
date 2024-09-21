@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> - 🌱 I’m currently learning Node.js<br><br> -📝 I regularly read articles on https://cp-algorithms.com/</p>
+<p align="left">  -📝 I regularly read articles on https://cp-algorithms.com/</p>
 
 ###
 
